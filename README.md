@@ -1,2 +1,2 @@
 # Rboard-ColorsTheme
-Theme for Gboard
+Theme for Gboard keyboard
